@@ -1,4 +1,5 @@
-#Bug report
+# Bug report
+
 Our customer fonQ has run across an issue, where pages sometimes are not build correctly, because of missing parts of the HTML. We've downloaded one of this pages when it was loading correctly and made a static file out of this. When serving this static file, the same issue kept returning inconsistently, on multiple of their owned domains.
 
 What we've tried:
